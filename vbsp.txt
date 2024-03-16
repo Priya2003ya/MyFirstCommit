@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Veer Bahadur Singh Purvanchal University: Home Page</title>
+<!-- Basic -->
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="MGKVP, Best University in India, Top University In India, Eucation, Degree" name="keywords"/>
+<meta content="Mahatma Gandhi Kashi Vidyapith: MGKVP, Best University in India, Top University In India, Eucation, Degree" name="description"/>
+<!-- Favicon -->
+<link href="/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/img/mgkvp-logo.png" rel="apple-touch-icon"/>
+<!-- Mobile Metas -->
+<meta content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no" name="viewport"/>
+<!-- Web Fonts  -->
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light%7CPlayfair+Display:400&amp;display=swap" id="googleFonts" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital@0;1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,500&amp;display=swap" rel="stylesheet"/>
+<!-- Vendor CSS -->
+<link href="/WebAssets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/animate/animate.compat.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/simple-line-icons/css/simple-line-icons.min.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/owl.carousel/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="/WebAssets/vendor/magnific-popup/magnific-popup.min.css" rel="stylesheet"/>
+<!-- Theme CSS -->
+<link href="/WebAssets/css/theme.css" rel="stylesheet"/>
+<link href="/WebAssets/css/theme-elements.css" rel="stylesheet"/>
+<!-- Skin CSS -->
+<link href="/Content/plugins/sweetalert/sweetalert.css" rel="stylesheet"/>
+<link href="/WebAssets/css/skins/skin-corporate-8.css" id="skinCSS" rel="stylesheet"/>
+<!-- Theme Custom CSS -->
+<link href="/WebAssets/css/pribox.css" rel="stylesheet"/>
+<link href="/WebAssets/css/gallery.css" rel="stylesheet"/>
+<link href="/WebAssets/css/custom.css" rel="stylesheet"/>
+<link href="/WebAssets/css/media.css" rel="stylesheet"/>
+<link href="/WebAssets/css/janhit.css" rel="stylesheet"/>
+<!-- Head Libs -->
+<script src="/WebAssets/vendor/modernizr/modernizr.min.js"></script>
+<script src="/WebAssets/vendor/jquery/jquery.min.js"></script>
+<script async="" src="https://cse.google.com/cse.js?cx=50174859a05733ccb"></script>
+<script src="/Content/plugins/sweetalert/sweetalert.min.js"></script>
+<style>
+
+
+        @media screen and (max-width: 767px) {
+            .globe {
+                position: absolute;
+                /* right: 10px; */
+                left: 14px;
+                top: 157px;
+                width: 100px;
+                height: 100px;
+                border-radius: 75px;
+                z-index: 100;
+                font-weight: bold;
+                line-height: 14px;
+                background: rgb(84, 197, 255) url(/assets/images/globe.png) no-repeat 0 0;
+                box-shadow: 0 0 5px 2px rgb(84, 197, 255);
+            }
+        }
+
+        .container-main {
+            max-width: 1200px !important;
+        }
+
+        ul.font-resize {
+            display: contents;
+            list-style: none;
+        }
+
+        li.resize {
+            color: #fff;
+            margin-right: 6px;
+        }
+
+        /* #header .header-nav-top .nav > li > a:hover, #header .header-nav-top .nav > li > a a:focus {
+            background: #fff;
+            color: #333;
+        }*/
+
+        #header .header-nav-top .nav > li > a, #header .header-nav-top .nav > li > span {
+            font-size: 12px;
+        }
+
+        @media screen and (max-width: 460px) {
+            #header .header-nav-top {
+                display: grid;
+                align-self: stretch;
+                align-items: center;
+            }
+
+            .img-none {
+                display: none !important;
+            }
+
+            .page-header {
+                height: 80px;
+                line-height: 25px;
+            }
+        }
+
+        @media screen and (max-width: 1024px) {
+            .page-header {
+                height: 110px;
+                line-height: 23px;
+                font-size: 12px;
+            }
+        }
+
+        .bg-pink {
+            background: #4f2075;
+            color: #fff;
+        }
+
+        @media screen and (min-width: 768px) and (max-width: 1024px) {
+            .page-header span.name-english {
+                font-size: 14px !important;
+            }
+
+            .page-header span.name-hindi {
+                font-size: 2em;
+                line-height: 47px;
+            }
+
+            .page-header span.name-english {
+                font-size: 18px !important;
+            }
+        }
+    </style>
+</head>
+<body class="main">
+<div class="toplink">
+<div class="container">
+<div class="col-lg-10">
+<div class="social-icons">
+<span>
+<a class="plain-content" href="tel:6388688015">
+<i class="fa fa-phone-square"></i>  6388688015
+                        </a>
+</span> <span>
+<a class="plain-content">
+<i class="fa fa-envelope"></i> www.vbspu.ac.in
+                        </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="page-header">
+<div class="container text-center">
+<img alt="" class="img-left pull-left d-lg-block d-md-block" src="/WebAssets/img/logo.png" style="border-width:0px;" width="98"/> <img alt="" class="img-left pull-right d-none d-lg-block d-md-block" src="/WebAssets/img/madhoji.jpg" style="border-width:0px;border-radius: 50%;" width="98"/>
+<span class="name-hindi">
+                वीर बहादुर सिंह पूर्वांचल विश्वविद्यालय, जौनपुर
+            </span><br/>
+<span class="eng-line">A State University- Government of Uttar Pradesh; Accredited A+ by NAAC</span><br/>
+<span class="name-english">Veer Bahadur Singh Purvanchal University, Jaunpur</span>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Static navbar -->
+<div class="clearfix"></div>
+<div class="body-holder">
+<div class="container">
+<div class="heading text-center"><b>Result and Online Services </b></div>
+<div class="row">
+<div class="col-sm-4 text-center">
+<div class="certificatetype">
+<a href="/Home/VBSPU_Results">
+<div class="icons"><img alt="" src="/WebAssets/img/result.png"/></div>
+<h2>Result</h2>
+<h2>परिणाम</h2>
+</a>
+</div>
+</div>
+<div class="col-sm-4 text-center">
+<div class="certificatetype">
+<a href="/Account/Login">
+<div class="icons"><img alt="" src="/WebAssets/img/College_Login.png"/></div>
+<h2>College Login</h2>
+<h2>कॉलेज लॉगिन</h2>
+</a>
+</div>
+</div>
+<div class="col-sm-4 text-center">
+<div class="certificatetype">
+<a href="/Account/AdminLogin">
+<div class="icons"><img alt="" src="/WebAssets/img/College_Login.png"/></div>
+<h2>Admin Login</h2>
+<h2>एडमिन लॉगिन</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="footer" style="position: fixed;bottom: 0;">
+<div class="container">
+<div class="row">
+<div class="col-lg-7">
+<p class="small text-white">
+                        Copyright © 2024, <strong>Veer Bahadur Singh Purvanchal University</strong> | All
+                        Rights
+                        Reserved
+                    </p>
+</div>
+<!-- <div class="col-lg-5 text-right"> <a href="PrivacyPolicy.html">Privacy Policy</a> | <a
+                    href="TermsAndConditions.html">Terms &amp; Conditions</a></div> -->
+</div>
+</div>
+</div>
+</body>
+</html>
+​

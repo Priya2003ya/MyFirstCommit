@@ -1,0 +1,10 @@
+priya,1,78
+tina,2,54
+riya,3,67
+rg,4,2
+g,5,2
+rg,4,2
+priya,45,23
+u,6,34
+heena,67,89
+heema,6,89
